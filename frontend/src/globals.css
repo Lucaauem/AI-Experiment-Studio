@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #21252b;
+  --color-secondary: #313740;
+  --color-acent: #000000;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  font-family: "arial";
+  color: white;
+}
